@@ -1,0 +1,7 @@
+data/raw/srtm30/N01E104.hgt filter=lfs diff=lfs merge=lfs -text
+data/raw/srtm90/srtm_57_12.txt filter=lfs diff=lfs merge=lfs -text
+data/raw/alos/N001E103_AVE_DSM.tif filter=lfs diff=lfs merge=lfs -text
+data/raw/alos/N001E104_AVE_DSM.tif filter=lfs diff=lfs merge=lfs -text
+data/raw/aster/ASTGTMV003_N01E103_dem.tif filter=lfs diff=lfs merge=lfs -text
+data/raw/aster/ASTGTMV003_N01E104_dem.tif filter=lfs diff=lfs merge=lfs -text
+data/raw/srtm30/N01E103.hgt filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,18 @@
+{
+  "name": "sg-topology",
+  "version": "0.0.0",
+  "description": "[ 103.60570757438656,   1.1586910224645797,   104.08848741420671,   1.4707745415467735 ]",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Yong Jun",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/simplify": "^5.1.5",
+    "babel-runtime": "^6.26.0",
+    "d3-contour": "^1.3.2",
+    "geotiff": "^1.0.0-beta.6",
+    "ndarray": "^1.0.18"
+  }
+}
